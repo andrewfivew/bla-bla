@@ -17,7 +17,7 @@ margin-bottom: 15px;
  section { background-color: purple; 
   height:20px;
   width: 30px;
-  float: right;}
+  position:relative;}
 /*large screens: */
  @media (min-width: 1200px){
   p#1, p#2 {float:right;}
