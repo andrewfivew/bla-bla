@@ -23,7 +23,7 @@ margin-bottom: 15px;
         #p1{width:33.33% }
         #p2{width: 33.33% }
   #p3{width: 33.33%;
-  float: right}
+  float: left}
   }
   /*medium screens*/
   @media (min-width: 992px) and (max-width: 1199px){
