@@ -20,11 +20,10 @@ margin-bottom: 15px;
   float: right;}
 /*large screens: */
  @media (min-width: 1200px){
-  p#1, p#2, p#3{float:left;}
+  p#1, p#2 {float:right;}
         #p1{width:33.33% }
         #p2{width: 33.33% }
-  #p3{width: 33.33%;
-  float: left}
+  #p3{width: 33.33%;}
   }
   /*medium screens*/
   @media (min-width: 992px) and (max-width: 1199px){
