@@ -27,6 +27,7 @@ margin-bottom: 15px;
   }
   /*medium screens*/
   @media (min-width: 992px) and (max-width: 1199px){
-  #p1 {width: 80% }
-  #p2 {width:50% }
+  #p1 {width: 50%; }
+  #p2 {width:50%; }
+   #p3{width:100%;}
    }
